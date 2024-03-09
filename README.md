@@ -21,9 +21,8 @@ The Motion Amplification Vibration Monitoring System is an innovative project ai
 
 ## Show Stoppers
 
-- **Universal Device Compatibility**: Ensure flawless performance across a spectrum of devices, including feature phones, iOS, and Android platforms.
-- **Regulatory Compliance Sentinel**: Designed to adhere to healthcare standards and industry-specific regulations.
-- **Scalable Infrastructure**: Equipped with a scalable infrastructure to expand seamlessly with growing demand and usage.
+- Universal Device Compatibility: Ensure flawless performance across a spectrum of devices, including web, windows and Android platforms.
+- Real Time Motion Magnification using Frame-By-Frame Difference of Vibrations.
 
 ## Usage
 
