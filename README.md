@@ -30,7 +30,7 @@ The Motion Amplification Vibration Monitoring System is an innovative project ai
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/motion-amplification-monitoring.git
+   git clone https://github.com/ARTHON9611/Electrothon_6.0-LEND-EN-.git
    ```
 
 2. Install dependencies:
