@@ -1,6 +1,6 @@
 # Electrothon_6.0-LEND-EN
 (We Give Help, Take Help)
-Team- Utkarsh Arora, Tanishq Chauhan, Preyanshu Mishra, Tanishq Verma
+#Team- Utkarsh Arora, Tanishq Chauhan, Preyanshu Mishra, Tanishq Verma
 # Motion Amplification Vibration Monitoring System
 
 The Motion Amplification Vibration Monitoring System is an innovative project aimed at merging human and machine health monitoring using cutting-edge technology. By harnessing Video Magnification, Computer Vision, and Machine Learning Algorithms, our system provides comprehensive insights into machinery and human well-being.
