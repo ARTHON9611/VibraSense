@@ -1,4 +1,5 @@
 # Electrothon_6.0-LEND-EN
+(We Give Help, Take Help)
 Team- Utkarsh Arora, Tanishq Chauhan, Preyanshu Mishra, Tanishq Verma
 # Motion Amplification Vibration Monitoring System
 
