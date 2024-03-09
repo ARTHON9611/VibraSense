@@ -50,11 +50,3 @@ The Motion Amplification Vibration Monitoring System is an innovative project ai
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any new features, improvements, or bug fixes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README according to your project's specific details and requirements.
