@@ -51,6 +51,8 @@ The Motion Amplification Vibration Monitoring System is an innovative project ai
 ## Prototype Video For Magnification:
 https://youtu.be/Ni9JRBwZUow
 
+![System Architecture](s_design.png)
+
 
 ## Contributing
 
