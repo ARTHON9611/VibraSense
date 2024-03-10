@@ -28,7 +28,7 @@ app.post("/api", upload.array('images', 2), async function (req, res) {
         console.log(req.body);
         console.log(req.files); // Log uploaded files
 
-        const genAI = new GoogleGenerativeAI("AIzaSyAsDe_ux6WpddYBoVyskiX9hF4yx887Nd4");
+        const genAI = new GoogleGenerativeAI("Your API KEY HERE");
 
         function fileToGenerativePart(path, mimeType) {
             return {
