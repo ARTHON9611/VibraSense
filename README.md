@@ -1,4 +1,4 @@
-#Lend-En: Bridging Help, Building Together.
+# Lend-En: Bridging Help, Building Together.
 
 # System Architecture:
 ![System Architecture](Static/s_design.png)
